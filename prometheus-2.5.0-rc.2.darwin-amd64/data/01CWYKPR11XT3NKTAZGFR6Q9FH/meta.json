@@ -1,0 +1,13 @@
+{
+	"ulid": "01CWYKPR11XT3NKTAZGFR6Q9FH",
+	"minTime": 1542909600000,
+	"maxTime": 1542916800000,
+	"stats": {},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01CWYKPR11XT3NKTAZGFR6Q9FH"
+		]
+	},
+	"version": 1
+}
